@@ -39,7 +39,7 @@ def sigmoid_der(x):
 
 # Perceptron
 
-epochs = 100
+epochs = 100000
 
 for epoch in range(epochs):
 	input = features
